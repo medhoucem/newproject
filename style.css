@@ -5,7 +5,7 @@ margin: 0;
 }
 div{
     display: flex;
-    -ms-flex-align: center;
+    text-align: center;
     color: blue;
 
     
