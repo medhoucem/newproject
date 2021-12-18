@@ -5,6 +5,8 @@ margin: 0;
 }
 div{
     display: flex;
+    -ms-flex-align: center;
     color: blue;
+
     
 }
