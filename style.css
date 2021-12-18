@@ -1,7 +1,8 @@
 *{
 padding: 0;
 margin: 0;
-
+background-image: url('https://images.bfmtv.com/FaqsZxL5IV0GD2FrPG03VJ-3QF4=/2x1:914x514/912x0/images/-331861.jpg');
+background-repeat: no-repeat;
 }
 div{
     
@@ -10,3 +11,4 @@ div{
 
  font-size: 35px;   
 }
+
