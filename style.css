@@ -4,5 +4,7 @@ margin: 0;
 
 }
 div{
-    font-style:oblique 10deg;
+    display: flex;
+    color: blue;
+    
 }
